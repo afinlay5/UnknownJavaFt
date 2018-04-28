@@ -1,0 +1,17 @@
+-source
+1.8
+-target
+1.8
+-d
+/home/adrian/Projects/UnknownJavaFt/build/classes
+-g
+-sourcepath
+""
+-proc:none
+-XDuseUnsharedTable=true
+-classpath
+""
+/home/adrian/Projects/UnknownJavaFt/src/main/java/ThisCheck.java
+/home/adrian/Projects/UnknownJavaFt/src/main/java/ThisEG.java
+/home/adrian/Projects/UnknownJavaFt/src/main/java/AnnotatedReceiver.java
+/home/adrian/Projects/UnknownJavaFt/src/main/UnknownJavaFt.java
