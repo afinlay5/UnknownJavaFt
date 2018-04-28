@@ -1,0 +1,8 @@
+#Tell Linguist to exlcude all shell scripts
+gradlew linguist-vendored
+
+#Tell Linguist to exlcude all batch scripts
+gradlew.bat linguist-vendored
+
+#Tell Linguist to exclude remaining batch/shell scripts
+build/scripts/* linguist-vendored
