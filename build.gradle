@@ -35,19 +35,13 @@ jar.enabled = false
 
 /*JDK8*/
 compileJava {
-	targetCompatibility = JavaVersion.VERSION_1_8
+	targetCompatibility = JavaVersion.VERSION_1_9
 }
 
 /*Compile Main File*/
 tasks.withType(JavaCompile) {
 	source='src/main/'
 	destinationDir = file("$rootDir/build/classes")
-}
-
-/*Copy Python Script*/
-task copy(type: Copy) {
-    from file("${rootDir}/src/main/python/OOP.py")
-    into file("${buildDir}/classes/src/main/python/")
 }
 
 /* Define task: run */

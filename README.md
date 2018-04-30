@@ -4,6 +4,9 @@ Built and tested on SUSE Linux.
 
 ![alt text](https://raw.githubusercontent.com/afinlay5/UnknownJavaFt/master/blog.png)
 
+# Platform 
+- Any supporting a JVM for Java SE 8+.
+
 # Requirements
 - Gradle 4.7 
 - Java 8 or greater
