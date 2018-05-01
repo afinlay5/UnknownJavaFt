@@ -10,6 +10,7 @@ Built and tested on SUSE Linux.
 # Requirements
 - Gradle 4.7 
 - Java 8 or greater
+- Python 3.4.6 (might work with earlier python version as well) available as "python3" from the command shell
 
 # Gradle Tasks
 - ./gradlew build - Build Application
