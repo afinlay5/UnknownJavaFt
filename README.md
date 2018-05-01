@@ -6,6 +6,7 @@ Built and tested on SUSE Linux.
 
 # Platform 
 - Any supporting a JVM for Java SE 8+.
+- Any Support a Python Interpreter for Python 3.4+
 
 # Requirements
 - Gradle 4.7 
